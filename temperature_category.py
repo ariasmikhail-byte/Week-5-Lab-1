@@ -1,9 +1,10 @@
 # Mikhail Arias 
 # CMP - 131
 # Week 5
+# Temperature Catagoriser
 # Lab 1
 print("===============================")
-print("     Temperature Catagorizer:")
+print("     Temperature Categoriser:")
 print("===============================")
 # User Input
 temp = float(input("Enter the temperature in degrees Fahrenheit:"))
